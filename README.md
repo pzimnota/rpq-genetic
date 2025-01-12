@@ -80,16 +80,21 @@ git clone https://github.com/pzimnota/rpq-genetic.git
 ---
 
 ## Example Results
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a073abf7-3888-4f2c-af3c-1f805cfca96d" alt="fitness_plot" />
+</p>
 
-<figure>
-  <img src=fitness_plot.png";ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1000&amp;q=80" alt="">
-  <figcaption>Fitness plot with 450 processes.</figcaption>
-</figure>
+<p align="center" style="text-align: center;">
+  Fitness plot with 450 processes.
+</p>
 
-  <figure>
-  <img src=day_graph.png";ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1000&amp;q=80" alt="">
-  <figcaption>One of the days graph.</figcaption>
-</figure>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/25502761-2f95-4cee-b391-aba5dceacb00" alt="day_graph" />
+</p>
+
+<p align="center" style="text-align: center;">    
+  One of the days graph.
+</p>
 
 ---
